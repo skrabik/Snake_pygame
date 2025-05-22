@@ -13,10 +13,14 @@
 - Pygame 2.6.1
 
 ## ⚙️ Установка
-1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/skrabik/Snake_pygame.git
-cd Snake_pygame && main.py
+```
+```bash
+cd Snake_pygame
+```
+```bash
+python main.py
 ```
 
 ## Управление 
