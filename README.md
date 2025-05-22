@@ -21,6 +21,7 @@ cd Snake_pygame
 ```
 ```bash
 pip install -r reguirements.txt
+```
 ```bash
 python main.py
 ```
