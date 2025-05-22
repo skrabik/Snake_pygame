@@ -20,6 +20,8 @@ git clone https://github.com/skrabik/Snake_pygame.git
 cd Snake_pygame
 ```
 ```bash
+pip install -r reguirements.txt
+```bash
 python main.py
 ```
 
